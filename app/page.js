@@ -25,7 +25,7 @@ function page() {
         backgroundSize: "cover",
       }}
       className="w-full h-[100dvh] flex justify-center items-center "
-      loading="lazy"
+     
     >
       <div className="w-full h-[100dvh] flex flex-col justify-evenly items-center ">
         <h1

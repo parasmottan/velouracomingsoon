@@ -53,7 +53,7 @@ function page() {
         </div>
         <div className="flex justify-center items-center gap-6">
           <a
-            href="https://www.instagram.com/yourprofile"
+            href="https://www.instagram.com/itsveloura.ora"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -62,7 +62,7 @@ function page() {
           </a>
 
           <a
-            href="https://www.instagram.com/yourprofile"
+            href="https://wa.me/917495096534"
             target="_blank"
             rel="noopener noreferrer"
           >

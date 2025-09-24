@@ -41,8 +41,8 @@ export const metadata = {
     title: "Veloura – Premium Jewelry | Coming Soon",
     description:
       "Veloura brings you imported, affordable and non-tarnish jewelry inspired by European and Korean fashion. Minimal yet premium, launching soon.",
-    url: "https://veloura.com", // apni site ka actual URL daalna
-    siteName: "Veloura",
+    url: "https://itsveloura.shop"
+  , siteName: "Veloura",
     images: [
       {
         url: "/seofriendly.jpg", // ek SEO friendly OG image bana lena
